@@ -1,0 +1,14 @@
+{
+    "name": "arkdevuk/sphpriter",
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "arkdevuk",
+            "email": "florian.chambon-lacoste@weemars.fr"
+        }
+    ],
+    "require": {
+        "vanilla/garden-cli": "~2.0"
+    }
+}
